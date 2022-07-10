@@ -3,7 +3,7 @@ languageCode: tr
 theme: hugo-theme-stack
 paginate: 5
 title: Example Site
-publish_dir: docs
+
 
 languages:
     tr:
