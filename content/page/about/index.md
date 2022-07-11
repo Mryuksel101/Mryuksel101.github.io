@@ -1,6 +1,6 @@
 ---
 title: Hakkımda
-description: Yazılım alanında bilgiler paylaştığım blog
+description: Bedava udemy kursları paylaşıyorun
 date: '2022-07-02'
 aliases:
   - about-us

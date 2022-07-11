@@ -8,19 +8,21 @@ title: Example Site
 languages:
     tr:
         languageName: Türkçe
-        title: Bedava Udemy Nasıl ALınır
+        title: Bedava Udemy Kursu
         weight: 1
+        
     en:
         languageName: English
         title: how to get free udemy course
         weight: 1
+ 
 
 
 # Change it to your Disqus shortname before using
 disqusShortname: mryuksel
 
 # GA Tracking ID
-googleAnalytics: G-V6XVQ4WKV8
+googleAnalytics: G-ET3E8BNL91
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -51,7 +53,8 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Youtube kanalıma abone olabilirsin
+        subtitle: Bedeva udemy kursu almak için sayfada gezinebilirsin
+        
         avatar:
             enabled: true
             local: true
