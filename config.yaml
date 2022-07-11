@@ -8,11 +8,11 @@ title: Example Site
 languages:
     tr:
         languageName: Türkçe
-        title: Mustafa'nın Yazılım Bloğu
+        title: Bedava Udemy Nasıl ALınır
         weight: 1
     en:
         languageName: English
-        title: Mustafa's Software Blog
+        title: how to get free udemy course
         weight: 1
 
 
