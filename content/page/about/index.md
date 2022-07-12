@@ -16,6 +16,6 @@ menu:
             icon: user
 ---
 
-Merhaba ben Mustafa! Bu bloğu internette buldğum çeşitli faydalı uygulamaları, fazla bilinmeyen siteleri ve güncel yazılım dillerini tanıtmak için kurdum 
+Merhaba, bu bluğumu faydalı bulduğum bedava udemy kurslarını paylaşmak için kullanıyorum
 
 
