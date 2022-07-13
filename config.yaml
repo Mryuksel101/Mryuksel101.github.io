@@ -245,7 +245,7 @@ sitemap:
 
 enableRobotsTXT: true
 
-include: [".well-known"]
+
 
 
 
