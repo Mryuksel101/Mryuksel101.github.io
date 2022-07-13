@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: mryuksel101.github.io
-Token: 35d5b24001d50c000a0bf7511d3b675b71f875853a260410a000fa70c08c2e14
+Token: 593e474469b9552a3729476baa387e11266b36887e2b8be90ce2be2313ff6b50
