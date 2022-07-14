@@ -1,6 +1,6 @@
 ---
-title: om meg
-description: Jeg deler gratis udemy-kurs
+title: À propos de moi
+description: Je partage des cours udemy gratuits
 date: '2022-07-02'
 aliases:
   - about-us
@@ -16,4 +16,4 @@ menu:
             icon: user
 ---
 
-Hei, jeg bruker denne bloggen til å dele gratis udemy-kurs som jeg finner nyttige.
+Bonjour, j'utilise ce blog pour partager des cours udemy gratuits que je trouve utiles.

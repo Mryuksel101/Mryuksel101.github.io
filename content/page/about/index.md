@@ -1,6 +1,6 @@
 ---
 title: Hakkımda
-description: Bedava udemy kursları paylaşıyorun
+description: Bedava udemy kursları paylaşıyorum
 date: '2022-07-02'
 aliases:
   - about-us

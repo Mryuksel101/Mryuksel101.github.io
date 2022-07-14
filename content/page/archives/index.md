@@ -1,8 +1,8 @@
 ---
-title: "Archives"
+title: "Arşiv"
 date: 2019-05-28
 layout: "archives"
-slug: "archives"
+slug: "arsiv"
 menu:
     main:
         weight: -70

@@ -1,6 +1,6 @@
 ---
-title: "Søk"
-slug: "Søk"
+title: "chercher"
+slug: "chercher"
 layout: "search"
 outputs:
     - html

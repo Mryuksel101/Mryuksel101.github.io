@@ -14,7 +14,7 @@ image: angela2.jpg
 
 [Linke tıkla](http://bc.vc/6XlXFAb) reklamı geç
 
-## En İyi Python Kursu
+# Udemy'deki en iyi Python Kursu
 
 + 100 gün, günde 1 saat, günde 1 proje oluşturmayı öğrenin, Python'da bu şekilde ustalaşırsınız.
 
@@ -34,3 +34,8 @@ image: angela2.jpg
 
 + Kurs, öğrenciler tarafından belirlenen yeni projeler ve modüllerle sürekli olarak yeni içeriklerle güncellenmektedir - bu sizsiniz!
 
+İlgi çekici video eğitimleriyle sizi adım adım yönlendireceğiz ve bir Python geliştiricisi olarak başarılı olmak için bilmeniz gereken her şeyi size öğreteceğiz.
+
+Kurs, 60 saatin üzerinde HD video eğitimlerini içerir ve gerçek dünya Python projeleri yaparken programlama bilginizi geliştirir.
+
+By the end of this course, you will be fluently programming in Python and you'll be so good at Python that you can get a job or use the language professionally.

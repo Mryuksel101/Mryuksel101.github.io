@@ -16,9 +16,9 @@ languages:
         title: how to get free udemy course
         weight: 1
     
-    no: 
-        languageName: Norwegian
-        title: hvordan få gratis udemy-kurs
+    fr: 
+        languageName: French
+        title: comment obtenir un cours udemy gratuit
         weight: 1
  
 
