@@ -5,7 +5,7 @@ date: "2022-06-04 00:10:00+0200"
 slug: "Comment-bloquer-les-publicités-sur-Spotify-PC-2022"
 image: spotifyResim.png
 categories: 
-    - "si-utile-applications"
+    - "ise-yarar-uygulamalar"
 
 
 ---
