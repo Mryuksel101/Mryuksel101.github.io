@@ -2,7 +2,7 @@
 title: "Free Angela Yu Udemy Flutter Course"
 description: "How to buy Angela Yu Flutter Course from Udemy for free"
 date: "2022-07-12 01:00:00+0200"
-slug: "dartNedir"
+slug: "Free-Angela-Yu-Udemy-Flutter-Course"
 image: angela.jpg
 
 ---

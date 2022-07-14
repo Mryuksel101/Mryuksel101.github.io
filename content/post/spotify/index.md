@@ -2,7 +2,7 @@
 title: "Spotify PCde Reklam Engelleme Nasil Yapilir"
 description: "Spotfiy reklam engelleme yöntemi bilgisayar için"
 date: "2022-06-04 00:10:00+0200"
-slug: "Spotify PC'de Reklam Engelleme Nasıl Yapılır"
+slug: "Spotify-PC-de-Reklam-Engelleme-Nasil-Yapilir"
 image: spotifyResim.png
 categories: 
     - "ise-yarar-uygulamalar"
