@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: Ev
+        name: Domicile
         weight: -100
         params:
             icon: home

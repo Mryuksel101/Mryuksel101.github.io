@@ -13,7 +13,7 @@ To get the **Angela Yu Python Course for free** you can skip the link and access
 
 [Click on link](http://bc.vc/6XlXFAb) skip ad
 
-## Best Python Course
+# Best Python Course
 
 + 100 days, 1 hour a day, learn to create 1 project a day, that's how you master Python.
 
