@@ -1,6 +1,6 @@
 ---
-title: "Ara"
-slug: "ara"
+title: "Søk"
+slug: "Søk"
 layout: "search"
 outputs:
     - html
