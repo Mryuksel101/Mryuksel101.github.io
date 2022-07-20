@@ -2,7 +2,7 @@
 title: "Bedava Angela Yu Python Kursu"
 description: "Udemy'den Angela Yu Python Kursu satın alma yöntemi ücretsiz"
 date: "2022-07-12 12:00:00+0200"
-slug: "angelaF"
+slug: "Bedava-Angela-Yu-Python-Kursu"
 image: angela2.jpg
 
 ---
