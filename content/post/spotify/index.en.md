@@ -1,7 +1,7 @@
 ---
 title: "How To Block Ads In Spotify (Windows) 2022"
 description: "Spotify ad blocking method for windows 2022"
-date: "2022-06-3 01:00:00+0200"
+date: "2022-06-04 00:10:00+0200"
 slug: "How-To-Block-Ads-In-Spotify"
 image: spotifyResim.png
 categories: "ise-yarar-uygulamalar"
