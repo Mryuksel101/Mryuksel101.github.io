@@ -8,17 +8,17 @@ title: Example Site
 languages:
     tr:
         languageName: Türkçe
-        title: Bedava Udemy Kursu
+        title: Bedava Worpress Temalar
         weight: 1
         
     en:
         languageName: English
-        title: how to get free udemy course
+        title: free Wordpress Themes
         weight: 1
     
     fr: 
         languageName: French
-        title: comment obtenir un cours udemy gratuit
+        title: thèmes wordpress gratuits
         weight: 1
  
 
