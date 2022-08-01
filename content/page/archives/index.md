@@ -1,8 +1,8 @@
 ---
-title: "Arşiv"
+title: "Kategoriler"
 date: 2022-07-14
 layout: "archives"
-slug: "arsiv"
+slug: "kategoriler"
 menu:
     main:
         weight: -70

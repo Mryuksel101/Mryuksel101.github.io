@@ -1,8 +1,8 @@
 ---
-title: "Les archives"
+title: "Catégories"
 date: 2022-07-14
 layout: "archives"
-slug: "Les-archives"
+slug: "categoriesFr"
 menu:
     main:
         weight: -70

@@ -1,6 +1,6 @@
 ---
 title: À propos de moi
-description: Je partage des cours udemy gratuits
+description: 
 date: '2022-07-02'
 aliases:
   - about-us
@@ -16,4 +16,12 @@ menu:
             icon: user
 ---
 
-Bonjour, j'utilise ce blog pour partager des cours udemy gratuits que je trouve utiles.
+# Comment trouver des thèmes wordpress gratuits ?
+
+ Je partage des thèmes Wordpress gratuits et modifiés sur mon site web.
+
+ # Les thèmes Wordpress crackés sont-ils sûrs ?
+
+ Avant de vous proposer des thèmes wordpress crackés, je les scanne avec virus total.
+
+ Cependant, vous pouvez également l'analyser avec votre propre programme antivirus.

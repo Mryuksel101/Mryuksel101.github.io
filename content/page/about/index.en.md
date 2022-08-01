@@ -16,4 +16,12 @@ menu:
             icon: user
 ---
 
-Hello, I use this blog to share free udemy courses that I find useful.
+# How to find free wordpress themes?
+
+ I share free, modded wordpress themes on my website.
+
+ # Are cracked wordpress themes safe?
+
+ I scan cracked wordpress themes with virus total before offering them to you.
+
+ However, you can also scan it with your own antivirus program.

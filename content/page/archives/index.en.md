@@ -1,8 +1,8 @@
 ---
-title: "Archives"
-date: 2019-05-28
+title: "Categories"
+date: 2022-05-28
 layout: "archives"
-slug: "archives"
+slug: "categories"
 menu:
     main:
         weight: -70

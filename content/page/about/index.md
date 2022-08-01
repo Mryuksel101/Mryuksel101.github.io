@@ -1,6 +1,6 @@
 ---
 title: Hakkımda
-description: Bedava udemy kursları paylaşıyorum
+description: Je partage les cours gratuits d'Udemy et les thèmes gratuits de Wordpress.
 date: '2022-07-02'
 aliases:
   - about-us
@@ -16,6 +16,15 @@ menu:
             icon: user
 ---
 
-Merhaba, bu bluğumu faydalı bulduğum bedava udemy kurslarını paylaşmak için kullanıyorum
+
+ # Bedava wordpress temaları nasıl bulunur?
+
+ Web sitemde ücretsiz, modlanmış wordpress temaları paylaşıyorum.
+
+ # Cracklı wordpress temaları güvenli mi?
+
+ Crackli wordpress temalarını size sunmadan önce virus total ile taratıyorum.
+
+ Bununla birlikte siz de kendi antivirus programınızla taratabilirisniz.
 
 
