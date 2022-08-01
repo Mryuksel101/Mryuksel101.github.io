@@ -1,6 +1,6 @@
 ---
 title: Hakkımda
-description: Je partage les cours gratuits d'Udemy et les thèmes gratuits de Wordpress.
+description: Bedava wordpress temaları ve bedava udemy kursları veriyorum
 date: '2022-07-02'
 aliases:
   - about-us

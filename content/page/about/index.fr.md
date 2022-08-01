@@ -1,6 +1,6 @@
 ---
 title: À propos de moi
-description: 
+description: Je partage les cours gratuits d'Udemy et les thèmes gratuits de Wordpress.
 date: '2022-07-02'
 aliases:
   - about-us
